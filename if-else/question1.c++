@@ -8,4 +8,3 @@ if(num1>num2){
 }
 else cout<<num2<<" is greater";
  }
- https://github.com/Swaysa27/CPP-Question-Beginner-to-Advanced.git

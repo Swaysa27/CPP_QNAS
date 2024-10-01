@@ -9,7 +9,7 @@ using namespace std;
     cout<<"Enter power:";
     cin>>power;
     int n;
-  num=n;
+  n=num;
     for(int i=1;i<power;i++){
     num=num*n;
  
